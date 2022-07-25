@@ -1,5 +1,5 @@
 # Big-Data-Analytics
-KIT718 Big Data Analytics weekly tutorial and homework jupyter notebooks worksheets 
+KIT718 Big Data Analytics weekly tutorial worksheets and homework on jupyter notebooks  
 
 <h2>Topics Covered</h2>
 <ul>
